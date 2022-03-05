@@ -1,11 +1,11 @@
 {
-  "name": "lacrosse",
+  "name": "Lacrosse Playbook",
   "version": "1.0.0",
-  "description": "lacrosse",
+  "description": "Lacrosse Playbook",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/YOUR_GITHUB_USER_NAME/lacrosse",
+  "repository": "https://github.com/jsarjeant/Lacrosse-Playbook.git",
   "license": "MIT",
   "keywords": [],
   "scripts": {

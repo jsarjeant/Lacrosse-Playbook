@@ -1,3 +1,3 @@
-# lacrosse
+# Lacrosse Playbook
 
-lacrosse
+Create and run Lacrosse plays
