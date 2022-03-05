@@ -1,5 +1,5 @@
 {
-  "name": "Lacrosse Playbook",
+  "name": "lacrosse-playbook",
   "version": "1.0.0",
   "description": "Lacrosse Playbook",
   "main": "build/main/index.js",

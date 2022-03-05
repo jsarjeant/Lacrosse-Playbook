@@ -35,29 +35,25 @@ test('run', (t) => {
         roster: [x, y],
         actionGroups: [
           {
-            actions: [
-              {
-                from: x,
-                to: y,
-              },
-            ],
+            ballMovement: {
+              from: x,
+              to: y,
+            },
           },
           {
-            actions: [
-              {
-                from: y,
-                to: x,
-              },
-            ],
+            ballMovement: {
+              from: y,
+              to: x,
+            },
           },
           {
-            actions: [
+            ballMovement: {
+              player: x,
+            },
+            playerMovement: [
               {
                 player: x,
                 destination: { x: 5, y: 5 },
-              },
-              {
-                player: x,
               },
             ],
           },
